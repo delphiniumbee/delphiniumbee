@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @delphiniumbee
 - 👀 I’m interested in reading, knitting and retiring early.
-- 🌱 I’m currently learning ServiceNow Administration
+- 🌱 I’m currently working as a ServiceNow Administrator and Manager
 - 💞️ I’m looking to collaborate on learning to read scripts in ServiceNow
 - 📫 How to reach me delphiniumroot@gmail.com
 
